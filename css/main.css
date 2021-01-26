@@ -1,0 +1,55 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	border-radius: 1px;
+	border-color: green;
+}
+
+#container {
+
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
+
+#navbar {
+
+	position: fixed;
+	width: 99vw;
+	padding: 10px;
+	text-align: right;
+	height: 30px;
+	background-color: grey;
+
+}
+
+.navitems{
+
+
+
+}
+
+.logo {
+
+
+
+}
+
+.searchbar {
+
+	height: 50px;
+	width: 50vw;
+	border-radius: 20%;
+
+}
+
+li {
+
+	display: inline;
+	border-radius: 10px;
+	border-color: red;
+
+}
